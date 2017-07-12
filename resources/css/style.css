@@ -1,0 +1,60 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+.hidden h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: centered;
+}
+
+.hidden p {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 16px;
+  color: Aquamarine;
+  text-align: centered;
+}
+
+.guide h1 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: centered;
+}
+
+.guide p {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 21px;
+  color: gray;
+  text-align: centered;
+}
+
+.coming h1 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: centered;
+}
+
+.guide p {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 16px;
+  color: Aquamarine;
+  text-align: centered;
+}
+
+.footer h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 16px;
+  color: gray;
+  text-align: right;
+}
